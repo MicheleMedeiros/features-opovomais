@@ -1,3 +1,6 @@
+
+![Design sem nome (1)](https://github.com/opovoonline/features-opovomais/assets/31142215/4a8f0109-f753-4856-92c5-1adec78eba2b)
+
 # Features O POVO MAIS
 Novas funcionalidades para deixar sua reportagem ainda mais interativa para o usuário. Aproveitem!
 
